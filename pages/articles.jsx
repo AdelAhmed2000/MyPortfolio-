@@ -5,7 +5,7 @@ const ArticlesPage = ({ articles }) => {
   return (
     <>
       <h3>
-        Recent Posts from{' '}
+        Recent Posts from
         <a
           href="https://dev.to/itsnitinr"
           target="_blank"

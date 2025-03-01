@@ -1,55 +1,40 @@
 import styles from '../styles/ContactCode.module.css';
 
 const contactItems = [
-  {
-    social: 'website',
-    link: 'nitinranganath.me',
-    href: 'https://nitinranganath.me',
-  },
+  // {
+  //   social: 'website',
+  //   link: 'adelahmedsayed399@gmail.com',
+  //   href: 'https://adelahmedsayed399.me',
+  // },
   {
     social: 'email',
-    link: 'nitinranganath@gmail.com',
-    href: 'mailto:nitinranganath@gmail.com',
+    link: 'adelahmedsayed399@gmail.com',
+    href: 'https://adelahmedsayed399.me',
   },
   {
     social: 'github',
-    link: 'itsnitinr',
-    href: 'https://github.com/itsnitinr',
+    link: 'AdelAhmed2000',
+    href: 'https://github.com/AdelAhmed2000',
   },
   {
     social: 'linkedin',
-    link: 'nitinranganath',
-    href: 'https://www.linkedin.com/in/nitinranganath/',
-  },
-  {
-    social: 'twitter',
-    link: 'iamnitinr',
-    href: 'https://www.twitter.com/iamnitinr',
+    link: 'adel-ahmed',
+    href: 'https://www.linkedin.com/in/adel-ahmed-373a33216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
   },
   {
     social: 'instagram',
-    link: 'iamnitinr',
-    href: 'https://www.instagram.com/iamnitinr',
-  },
-  {
-    social: 'polywork',
-    link: 'nitinranganath',
-    href: 'https://www.polywork.com/nitinranganath',
+    link: 'a_d_e_l.20',
+    href: 'https://www.instagram.com/a_d_e_l.20?igsh=MXNwamx6emFtdGo3cw==',
   },
   {
     social: 'telegram',
-    link: 'iamnitinr',
-    href: 'https://t.me/iamnitinr',
+    link: 'AdelAhmed',
+    href: 't.me/AdelAhmedAD',
   },
   {
     social: 'codepen',
-    link: 'nitinranganath',
-    href: 'https://codepen.io/itsnitinr',
-  },
-  {
-    social: 'codesandbox',
-    link: 'itsnitinr',
-    href: 'https://codesandbox.io/u/itsnitinr',
+    link: 'AdelAhmed',
+    href: 'https://codepen.io/adelahmed2000',
   },
 ];
 
